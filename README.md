@@ -75,6 +75,34 @@ Numpy Tutorial
 *Notebook 2
 Numpy random
 
+# Day 5
+# Task 5]
+
+*Notebook 1
+Series: create and operation
+
+*Notebook 2
+DataFrame :
+DataFrame read csv and xlsx file 
+DataFrame create using: matrix,dict
+
+*Notebook 3
+DataFrame Operation:
+(value counts,apply ,unique,nunique,describe,etc)
+
+*Notebook 4
+Selection
+DataFrame col,row selection(loc,iloc)
+conditional selection
+column add,delete,update
+index,remove index
+operatio:+,-,*,| between two columns
+
+*Notebook 5
+Missing value
+missing values checking 
+missing value drop by row and by column
+missing value fill(mean,median)
 
 
 
