@@ -105,6 +105,11 @@ missing value drop by row and by column
 missing value fill(mean,median)
 
 
+# Day 6
+# Task 6]
+
+Matplotlib And Seaborn library
+
 
 
 
