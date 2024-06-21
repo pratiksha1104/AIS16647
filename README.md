@@ -109,9 +109,9 @@ missing value fill(mean,median)
 Matplotlib And Seaborn library
 
 # Task 7]
-Numpy Exercise
-Ecommerce Purchases Exercise
-SF Salaries Exercise
+*Numpy Exercise
+*Ecommerce Purchases Exercise
+*SF Salaries Exercise
 
 
 
