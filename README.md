@@ -1,4 +1,4 @@
-# Day 1
+
 # Task 1]
 
 *Notebook 1
@@ -26,7 +26,7 @@ String method
 Number method
 
 
-# Day 2
+
 # Taks 2]
 
 *Notebook 1
@@ -45,7 +45,7 @@ For Loop
 While loop
 
 
-# Day 3
+
 # Task 3]
 
 *Notebook 1
@@ -66,7 +66,6 @@ Logical user define function
 Like,odd even,grades
 
 
-# Day 4
 # Task 4]
 
 *Notebook 1
@@ -75,7 +74,7 @@ Numpy Tutorial
 *Notebook 2
 Numpy random
 
-# Day 5
+
 # Task 5]
 
 *Notebook 1
@@ -105,10 +104,14 @@ missing value drop by row and by column
 missing value fill(mean,median)
 
 
-# Day 6
 # Task 6]
 
 Matplotlib And Seaborn library
+
+# Task 7]
+Numpy Exercise
+Ecommerce Purchases Exercise
+SF Salaries Exercise
 
 
 
