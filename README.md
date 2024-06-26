@@ -153,6 +153,10 @@ Comparison:
 Naive bays , knn,decision tree compair 
 Accuracy,recall, precision
 
+# Task 8]
+
+Power Bi, Create dashboard using your project data
+
 
 
 
